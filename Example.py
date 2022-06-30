@@ -7,3 +7,4 @@ def function():
     print("Text")
 
 function()
+'''я лунтик, я снова с вами'''
